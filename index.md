@@ -15,8 +15,7 @@
     <header class="page"><b>MY CAT CLOCK</b></header>
     <div class="page" id="clockSection">
             <h3 id="canIHazTime">I can haz time??</h3>
-            <p id="clock"></p>
-        <p>Yo</p>
+        <p id="clock"></p>
     </div>
 
     <div class="page"  id="catImg">
