@@ -16,6 +16,7 @@
     <div class="page" id="clockSection">
             <h3 id="canIHazTime">I can haz time??</h3>
             <p id="clock"></p>
+        <p>Yo</p>
     </div>
 
     <div class="page"  id="catImg">
