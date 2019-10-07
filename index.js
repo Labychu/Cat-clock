@@ -63,7 +63,7 @@ function modeSwitch() {
     const hour = date.getHours();
     indexNumber = (hour <= 4) ? 5 :        // night
                         (hour <= 6) ? 0 :         // dawn
-                        (hour <= 10) ? 1 :          // morning
+                        (hour <= 12) ? 1 :          // morning
                         (hour <= 17) ? 2 :            // afternoon
                         (hour <= 18) ? 3 :           // dusk
                         (hour <= 22) ? 4 :           // evening
