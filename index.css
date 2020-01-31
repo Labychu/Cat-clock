@@ -66,11 +66,8 @@ header {
     color: black;
 }
 
-#seTime label {
+table tr td {
     display: inline-block;
-}
-
-table {
     opacity: 1;
 }
 
