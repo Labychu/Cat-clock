@@ -56,7 +56,6 @@ header {
 }
 
 #setTime{
-    display: inline-block;
     background-color: aquamarine;
     opacity: 0.7;
     margin: 0 auto;
@@ -65,6 +64,10 @@ header {
     border: 1px solid aqua;
     border-radius: 10px;
     color: black;
+}
+
+#seTime label {
+    display: inline-block;
 }
 
 table {
